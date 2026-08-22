@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# Add the production sitemap URL here after the final custom domain is confirmed.
+Sitemap: https://poke-fusion-kappa.vercel.app/sitemap.xml
