@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    { "source": "/fr", "destination": "/" },
+    { "source": "/fr/", "destination": "/" },
+    { "source": "/de", "destination": "/" },
+    { "source": "/de/", "destination": "/" },
+    { "source": "/pokemon-fusion/:path*", "destination": "/" }
+  ]
+}
